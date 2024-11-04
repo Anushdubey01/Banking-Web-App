@@ -166,15 +166,3 @@ async function initiateTransfer(amount: number, recipientId: string) {
 - [Next.js Documentation](https://nextjs.org/docs)
 
 ---
-
-## Further Reading
-
-For further insights and best practices in fintech application development, explore these topics:
-
-- Security best practices for fintech applications
-- Enhancing user experience in financial platforms
-- Data visualization for financial applications using Chart.js
-
----
-
-Banklance brings together convenience and security for streamlined financial management. With real-time updates, secure transactions, and insightful analytics, Banklance offers a powerful toolkit for managing personal finances effortlessly.
